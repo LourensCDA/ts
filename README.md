@@ -9,6 +9,12 @@ Setup:
 npm i -g typescript
 ```
 
+3.  Run in folder
+
+```ps
+npm install
+```
+
 To compile typescript
 
 ```ps
