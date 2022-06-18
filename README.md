@@ -15,6 +15,12 @@ npm i -g typescript
 npm install
 ```
 
+4.  Run lite server
+
+```ps
+npm start
+```
+
 To compile typescript
 
 ```ps
