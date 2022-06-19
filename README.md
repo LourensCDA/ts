@@ -1,5 +1,7 @@
 This is the project worked on in the Udemy course Understanding TypeScript - 2022 edition
 
+Current Part 17
+
 Setup:
 
 1.  Install NodeJS
